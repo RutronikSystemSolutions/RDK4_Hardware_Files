@@ -14,6 +14,8 @@ Here you may find Rutronik Development Kit 4 (RDK4)-related hardware documents a
 
 - Rev0 [prototype] files
 
+- Rev1 files
+
   
 
 For other documents, such as the user's manual, BOM, etc., please go to this GitHub directory:
